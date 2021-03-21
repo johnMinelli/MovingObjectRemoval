@@ -5,12 +5,12 @@ The project make use only of image processing (CV) techniques and doesn't rely o
 
 **Static**
 
-![static](res/MovingObjectRemoval_1)
+![static](res/MovingObjectRemoval_1.gif)
 
 **Dynamic**
 
-![dynamic](res/MovingObjectRemoval_2)
+![dynamic](res/MovingObjectRemoval_2.gif)
 
 **Many objects**
 
-![many objects](res/MovingObjectRemoval_3)
+![many objects](res/MovingObjectRemoval_3.gif)
